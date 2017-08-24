@@ -1,1 +1,2 @@
-# izzuddeen-sulaiman-abu-muhammad
+hello world
+this site is for programming technique 
